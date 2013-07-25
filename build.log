@@ -1,0 +1,33 @@
+Logfile initialized
+[INFO] logfile = /home/cole/Titanium_Studio_Workspace/TiAirExample/build.log
+[DEBUG] /home/cole/.titanium/mobilesdk/linux/3.1.1.GA/android/builder.py simulator tiair /home/cole/bin/android-sdk-linux /home/cole/Titanium_Studio_Workspace/TiAirExample com.dawson.tiair.test 13 HVGA /127.0.0.1:37547
+[INFO] Building tiair for Android ... one moment
+[INFO] Titanium SDK version: 3.1.1 (06/15/13 16:09 f7592c1)
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 1 devices/emulators
+[DEBUG] Device connected... (waited 0 seconds)
+[DEBUG] waited 0.006019 seconds on emulator to get ready
+[DEBUG] com.dawson.tiair.test installed? True
+[INFO] Fastdev server running, deploying in Fastdev mode
+[INFO] Copying CommonJS modules...
+[INFO] Copying project resources..
+[TRACE] COPYING MODIFIED FILE: /home/cole/Titanium_Studio_Workspace/TiAirExample/Resources/views/home/list.js => /home/cole/Titanium_Studio_Workspace/TiAirExample/build/android/bin/assets/Resources/views/home/list.js
+[DEBUG] LiveView not enabled
+[INFO] Tiapp.xml unchanged, skipping class generation
+[DEBUG] Processing Android resource drawables
+[DEBUG] found drawable-notlong-land-ldpi splash screen at /home/cole/Titanium_Studio_Workspace/TiAirExample/Resources/android/images/res-notlong-land-ldpi/default.png
+[DEBUG] found drawable-notlong-port-ldpi splash screen at /home/cole/Titanium_Studio_Workspace/TiAirExample/Resources/android/images/res-notlong-port-ldpi/default.png
+[DEBUG] found drawable-notlong-port-hdpi splash screen at /home/cole/Titanium_Studio_Workspace/TiAirExample/Resources/android/images/res-notlong-port-hdpi/default.png
+[DEBUG] found drawable-notlong-port-mdpi splash screen at /home/cole/Titanium_Studio_Workspace/TiAirExample/Resources/android/images/res-notlong-port-mdpi/default.png
+[DEBUG] found drawable-long-land-ldpi splash screen at /home/cole/Titanium_Studio_Workspace/TiAirExample/Resources/android/images/res-long-land-ldpi/default.png
+[DEBUG] found drawable-notlong-land-hdpi splash screen at /home/cole/Titanium_Studio_Workspace/TiAirExample/Resources/android/images/res-notlong-land-hdpi/default.png
+[DEBUG] found drawable-long-land-hdpi splash screen at /home/cole/Titanium_Studio_Workspace/TiAirExample/Resources/android/images/res-long-land-hdpi/default.png
+[DEBUG] found drawable-long-port-hdpi splash screen at /home/cole/Titanium_Studio_Workspace/TiAirExample/Resources/android/images/res-long-port-hdpi/default.png
+[DEBUG] found drawable-long-port-ldpi splash screen at /home/cole/Titanium_Studio_Workspace/TiAirExample/Resources/android/images/res-long-port-ldpi/default.png
+[DEBUG] found drawable-notlong-land-mdpi splash screen at /home/cole/Titanium_Studio_Workspace/TiAirExample/Resources/android/images/res-notlong-land-mdpi/default.png
+[INFO] Re-launching application ... tiair
+[INFO] Launching application ... tiair
+[TRACE] Launch output: Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.dawson.tiair.test/.TiairActivity }
+Warning: Activity not started, its current task has been brought to the front
+
+[INFO] Forwarding host port 37547 to device for debugging.
